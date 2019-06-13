@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoSign", "DoSign\DoSign.csproj", "{493E49C8-EB82-49F7-BAB4-4D5ACF0F3D50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{493E49C8-EB82-49F7-BAB4-4D5ACF0F3D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493E49C8-EB82-49F7-BAB4-4D5ACF0F3D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493E49C8-EB82-49F7-BAB4-4D5ACF0F3D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493E49C8-EB82-49F7-BAB4-4D5ACF0F3D50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC4B009D-D468-4121-AD6B-4CA9E15442A1}
+	EndGlobalSection
+EndGlobal
