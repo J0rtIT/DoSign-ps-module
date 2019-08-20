@@ -45,10 +45,10 @@ Import-Module DoSign
 
 ## What are the Cmdlets that this Module gives me?
 4 Cmdlets so far:
-- [b]Get-Signed[/b] Signature any string using sha256,sha384,sha512,sha1 with a given key or a random one.
-- [b]Convert-NowtoSeconds[/b] Convert now Datetime into seconds
-- [b]Convert-TimeFromSeconds[/b] Convert a given time into seconds
-- [b]Convert-TimetoSeconds[/b] Convert a time in seconds into date.
+- **Get-Signed** Signature any string using sha256,sha384,sha512,sha1 with a given key or a random one.
+- **Convert-NowtoSeconds** Convert now Datetime into seconds
+- **Convert-TimeFromSeconds** Convert a given time into seconds
+- **Convert-TimetoSeconds** Convert a time in seconds into date.
 
 ## Who do I talk to if I need help? ###
 
