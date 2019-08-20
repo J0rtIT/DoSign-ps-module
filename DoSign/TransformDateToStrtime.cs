@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DoSign
 {
-    public class Class1
+    class TransformDateToStrtime
     {
     }
 }

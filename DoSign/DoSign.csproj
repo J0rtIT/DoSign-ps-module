@@ -44,8 +44,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="ConvertNow2Seconds.cs" />
+    <Compile Include="ConvertFromTime2seconds.cs" />
+    <Compile Include="ConvertTime2seconds.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TransformDateToStrtime.cs" />
+    <Compile Include="UnixTime.cs" />
     <Compile Include="SignSHA256.cs" />
     <Compile Include="TheResult.cs" />
   </ItemGroup>
